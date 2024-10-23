@@ -56,7 +56,7 @@ const arr =[
  
   return (
   
-    <Box sx={{paddingTop: '150px'}} className='dadcard'>
+    <Box  className='dadcard'>
       {}
   {arrcart.map((item,index) => {
 quantity= item.quantity
